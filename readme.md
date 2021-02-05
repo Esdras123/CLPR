@@ -17,7 +17,7 @@ Read the .pdf Report - Cameroon License Plate Recognition.pdf
    * enter  sudo apt update
    * enter  sudo apt install python3.7
    * close the command-line
-2. Download **model_final.pth** from https://drive.google.com/file/d/11-eQ3fbYC2DtFFknSPPXGA4Dn6sA-Eb8/view?usp=sharing and put it in the repository
+2. Download **model_final.pth** from https://drive.google.com/file/d/11-eQ3fbYC2DtFFknSPPXGA4Dn6sA-Eb8/view?usp=sharing and put it in the repository then Download model.zip from https://drive.google.com/file/d/1rzzBlYDsrMEGIN-Osrg-BYO9FLTL1u6D/view?usp=sharing , extract it and put it in the repository
 3. Install the dependancies :  
    * open the command-line (Ctrl-Alt-T)  
    * enter pip3 install -r requirements.txt  
